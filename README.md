@@ -11,7 +11,7 @@
     - LALR compilation
 - [📖 Martin Fowler's Refactoring](https://martinfowler.com/books/refactoring.html)
 - [📖 Assembly Language for x86 Processors](http://asmirvine.com/)
-- [📖 Structure & Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- [📖 Structure/Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - Averaging 15s on the Rubik's Cube **[[WCA](https://www.worldcubeassociation.org/persons/2019NGUY16) | [CubePB](https://cubepb.com/user?id=34&expand=0)]**
 
 <details>
