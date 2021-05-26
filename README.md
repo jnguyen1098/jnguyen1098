@@ -20,13 +20,13 @@
 ┌──────────────┬───────┐ ┌─────────────────┬─────┐
 │  3x3 Records │  Time │ │  Typing Records │ WPM │
 ├──────────────┼───────┤ ├─────────────────┼─────┤
-│       Single │  9.77 │ │         KeyMash │ 177 │
-│    Mean of 3 │ 12.22 │ │    10ff Top 200 │ 160 │
-│ Average of 5 │ 12.76 │ │  TypeRacer Race │ 160 │
-│           12 │ 13.76 │ │ MonkeyType  15s │ 169 │
-│           50 │ 14.65 │ │ MonkeyType  30s │ 158 │
+│       Single │  8.82 │ │         KeyMash │ 177 │
+│    Mean of 3 │ 11.91 │ │    10ff Top 200 │ 160 │
+│ Average of 5 │ 12.02 │ │  TypeRacer Race │ 160 │
+│           12 │ 13.63 │ │ MonkeyType  15s │ 169 │
+│           50 │ 14.59 │ │ MonkeyType  30s │ 158 │
 │          100 │ 14.77 │ │ MonkeyType  60s │ 166 │
-│         1000 │ 15.80 │ │ MonkeyType 120s │ 144 │
+│         1000 │ 15.39 │ │ MonkeyType 120s │ 144 │
 └──────────────┴───────┘ └─────────────────┴─────┘
 ┌────────────────┬──────────┐
 │ Tetris Records │   Time   │
