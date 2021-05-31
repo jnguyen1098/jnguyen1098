@@ -24,7 +24,7 @@
 │    Mean of 3 │ 11.91 │ │    10ff Top 200 │ 160 │
 │ Average of 5 │ 12.02 │ │  TypeRacer Race │ 160 │
 │           12 │ 13.63 │ │ MonkeyType  15s │ 169 │
-│           50 │ 14.59 │ │ MonkeyType  30s │ 158 │
+│           50 │ 14.59 │ │ MonkeyType  30s │ 174 │
 │          100 │ 14.77 │ │ MonkeyType  60s │ 166 │
 │         1000 │ 15.39 │ │ MonkeyType 120s │ 144 │
 └──────────────┴───────┘ └─────────────────┴─────┘
