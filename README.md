@@ -1,7 +1,7 @@
 ## ㄟ(≧◇≦)ㄏ
 
 <!-- <img src="https://i.imgur.com/E7N0tWx.png" width="475px" align="right"> -->
-<img src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/SICP/Patchy_Fumo_reads_SICP.jpg" width="475px" align="right">
+<img src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/SICP/Patchy_Fumo_reads_SICP.jpg" width="425px" align="right">
 
 **[Sign my Guestbook (GitHub Discussions)](https://github.com/jnguyen1098/jnguyen1098/discussions/categories/guestbook)**
 
