@@ -5,11 +5,10 @@
 
 **[Sign my Guestbook (GitHub Discussions)](https://github.com/jnguyen1098/jnguyen1098/discussions/categories/guestbook)**
 
-- University of Guelph CS 4B, currently focusing on
+- University of Guelph CS, currently focusing on
     - OpenGL C graphics/game engines
-    - Computational [ˌlɪ̃ŋˈɡɰʷɪsˌtɪ̆ks]
-    - Image processing algorithms
-    - LALR compilation
+    - Competitive programming
+    - Soft computing and AI
 - [📖 Martin Fowler's Refactoring](https://martinfowler.com/books/refactoring.html)
 - [📖 Assembly Language for x86 Processors](http://asmirvine.com/)
 - [📖 Structure/Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
@@ -24,9 +23,9 @@
 │       Single │  8.82 │ │         KeyMash │ 177 │
 │    Mean of 3 │ 11.77 │ │    10ff Top 200 │ 160 │
 │ Average of 5 │ 12.02 │ │  TypeRacer Race │ 160 │
-│           12 │ 13.51 │ │ MonkeyType  15s │ 171 │
-│           50 │ 14.44 │ │ MonkeyType  30s │ 174 │
-│          100 │ 14.65 │ │ MonkeyType  60s │ 166 │
+│           12 │ 13.46 │ │ MonkeyType  15s │ 171 │
+│           50 │ 14.01 │ │ MonkeyType  30s │ 178 │
+│          100 │ 14.26 │ │ MonkeyType  60s │ 166 │
 │         1000 │ 15.38 │ │ MonkeyType 120s │ 144 │
 └──────────────┴───────┘ └─────────────────┴─────┘
 ┌────────────────┬──────────┐
