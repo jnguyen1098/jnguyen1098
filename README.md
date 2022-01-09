@@ -1,4 +1,4 @@
-## ㄟ(≧◇≦)ㄏ
+## ㄟ(≧◇≦)ㄏ ![](https://komarev.com/ghpvc/?username=jnguyen1098)
 
 <!-- <img src="https://i.imgur.com/E7N0tWx.png" width="475px" align="right"> -->
 <img src="https://i.imgur.com/s96rYdt.png" width="450px" align="right">
