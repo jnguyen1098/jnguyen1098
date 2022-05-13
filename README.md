@@ -1,7 +1,7 @@
 ## ㄟ(≧◇≦)ㄏ ![](https://komarev.com/ghpvc/?username=jnguyen1098)
 
 <!-- <img src="https://i.imgur.com/E7N0tWx.png" width="475px" align="right"> -->
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Megumin_Holding_C_Programming_Language.jpg?raw=true" width="350px" align="right">
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Megumin_Holding_C_Programming_Language.jpg?raw=true" width="400px" align="right">
 
 **[Sign my Guestbook (GitHub Discussions)](https://github.com/jnguyen1098/jnguyen1098/discussions/categories/guestbook)**
 
