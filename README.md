@@ -5,7 +5,7 @@
 
 **[Sign my Guestbook (GitHub Discussions)](https://github.com/jnguyen1098/jnguyen1098/discussions/categories/guestbook)**
 
-- University of Guelph CS, currently focusing on
+- University of Guelph CS alumnus, recently focused on
     - OpenGL C graphics/game engines
     - Competitive programming
     - Soft computing and AI
