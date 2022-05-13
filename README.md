@@ -11,8 +11,8 @@
   - ft. OSAP loophole, AoA loophole, and co-op hacking
 <hr>
 
-- UofGuelph CS '22; recently studied soft computing and graphics
-- Averaging 14s on the Rubik's Cube **[[WCA](https://www.worldcubeassociation.org/persons/2019NGUY16) | [CubePB](https://cubepb.com/user?id=34&expand=0)]**
+- 🙇🏻‍♂️ UofGuelph CS '22; recently studied soft computing and graphics
+- 🙇🏻‍♂️ Averaging 14s on the Rubik's Cube **[[WCA](https://www.worldcubeassociation.org/persons/2019NGUY16) | [CubePB](https://cubepb.com/user?id=34&expand=0)]**
 <hr>
 
 - [📖 Martin Fowler's Refactoring](https://martinfowler.com/books/refactoring.html)
