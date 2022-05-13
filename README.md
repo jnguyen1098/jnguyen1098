@@ -11,7 +11,7 @@
   - ft. OSAP loophole, AoA loophole, and co-op hacking
 <hr>
 
-- 🙇🏻‍♂️ UofGuelph CS '22; recently studied soft computing & graphics
+- 🙇🏻‍♂️ UoGuelph CS 22; recently studied soft computing & graphics
 - 🙇🏻‍♂️ Averaging 14s on the Rubik's Cube **[[WCA](https://www.worldcubeassociation.org/persons/2019NGUY16) | [CubePB](https://cubepb.com/user?id=34&expand=0)]**
 <hr>
 
