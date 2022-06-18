@@ -4,9 +4,9 @@
 <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Megumin_Holding_C_Programming_Language.jpg?raw=true" width="400px" align="right">
 
 **[Sign my Guestbook (GitHub Discussions)](https://github.com/jnguyen1098/jnguyen1098/discussions/categories/guestbook)**
-
-- [📝 **CIS\*3190 is One of the Most Useful Courses in BComp**](https://gist.github.com/jnguyen1098/210fdd73b693e22306ab94a82ce8f80c)
 - 📝 **WIP**: [**Guelph Housing Guide**](https://gist.github.com/jnguyen1098/4c9f9158483674bfe0d1a3a57b49f9e1)
+- [📝 **Freeing Memory Before Panic in CIS\*2750 Considered Harmful?**](https://gist.github.com/jnguyen1098/68b0b97be09d1f06c6e2ee86d2697647)
+- [📝 **CIS\*3190 is One of the Most Useful Courses in BComp**](https://gist.github.com/jnguyen1098/210fdd73b693e22306ab94a82ce8f80c)
 - 📝 **Coming soon: BComp Survival Guide**
   - ft. OSAP loophole, AoA loophole, and co-op hacking
 <hr>
