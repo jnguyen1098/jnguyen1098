@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/73212666?v=4" width="400px" align="right">
 
 - 🙇🏻‍♂️ Prev SDE @ Amazon
-- 🙇🏻‍♂️ UoGuelph CS '22; recently studied soft computing & graphics
+- 🙇🏻‍♂️ UoGuelph BCOMP:CS '22
 - 🙇🏻‍♂️ Averaging 14s on the Rubik's Cube **[[WCA](https://www.worldcubeassociation.org/persons/2019NGUY16) | [CubePB](https://cubepb.com/user?id=34&expand=0)]**
 <hr>
 
