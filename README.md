@@ -1,23 +1,19 @@
 ## ㄟ(≧◇≦)ㄏ ![](https://komarev.com/ghpvc/?username=jnguyen1098)
 
-<!-- <img src="https://i.imgur.com/E7N0tWx.png" width="475px" align="right"> -->
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Megumin_Holding_C_Programming_Language.jpg?raw=true" width="400px" align="right">
+<img src="https://avatars.githubusercontent.com/u/73212666?v=4" width="400px" align="right">
 
-**[Sign my Guestbook (GitHub Discussions)](https://github.com/jnguyen1098/jnguyen1098/discussions/categories/guestbook)**
-- 📝 **WIP**: [**Guelph Housing Guide**](https://gist.github.com/jnguyen1098/4c9f9158483674bfe0d1a3a57b49f9e1)
-- [📝 **Freeing Memory Before Panic in CIS\*2750 is Bad**](https://gist.github.com/jnguyen1098/68b0b97be09d1f06c6e2ee86d2697647)
-- [📝 **CIS\*3190 is One of the Most Useful Courses in BComp**](https://gist.github.com/jnguyen1098/210fdd73b693e22306ab94a82ce8f80c)
-- 📝 **Coming soon: BComp Survival Guide**
-  - ft. OSAP loophole, AoA loophole, and co-op hacking
-<hr>
-
-- 🙇🏻‍♂️ UoGuelph CS 22; recently studied soft computing & graphics
+- 🙇🏻‍♂️ Prev SDE @ Amazon
+- 🙇🏻‍♂️ UoGuelph CS '22; recently studied soft computing & graphics
 - 🙇🏻‍♂️ Averaging 14s on the Rubik's Cube **[[WCA](https://www.worldcubeassociation.org/persons/2019NGUY16) | [CubePB](https://cubepb.com/user?id=34&expand=0)]**
 <hr>
 
 - [📖 Martin Fowler's Refactoring](https://martinfowler.com/books/refactoring.html)
-- [📖 Assembly Language for x86 Processors](http://asmirvine.com/)
 - [📖 Structure/Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- [📖 Program Proofs](https://mitpress.mit.edu/9780262546232/program-proofs/)
+<hr>
+
+- [📝 **Freeing Memory Before Panic in CIS\*2750 is Bad**](https://gist.github.com/jnguyen1098/68b0b97be09d1f06c6e2ee86d2697647)
+- [📝 **CIS\*3190 is One of the Most Useful Courses in BComp**](https://gist.github.com/jnguyen1098/210fdd73b693e22306ab94a82ce8f80c)
 <hr>
 
 <details>
